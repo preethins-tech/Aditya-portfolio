@@ -1,4 +1,4 @@
-# Shahid Portfolio - HTML Version
+# Adithya Portfolio - HTML Version
 
 A modern, responsive portfolio website built with pure HTML, CSS, and JavaScript. Features separate pages for About, Experience, Projects, and Contact sections.
 
@@ -13,12 +13,12 @@ A modern, responsive portfolio website built with pure HTML, CSS, and JavaScript
 
 ## 🚀 Live Demo
 
-You can access this portfolio at: [https://ashahid004-ops.github.io/shahid-portfolio/](https://ashahid004-ops.github.io/shahid-portfolio/)
+Portfolio website showcasing modern web development skills.
 
 ## 📁 Project Structure
 
 ```
-shahid-portfolio-html/
+aditya-portfolio/
 ├── index.html          # Home page
 ├── about.html          # About page  
 ├── experience.html     # Experience page
@@ -196,9 +196,9 @@ This project is open source and available under the MIT License.
 
 ## 👤 Author
 
-**Shahid**
-- GitHub: [@ashahid004-ops](https://github.com/ashahid004-ops)
-- Email: shahid.developer@gmail.com
+**Adithya S M**
+- Portfolio: Full time student and aspiring web developer
+- Email: adithyaappu136@gmail.com
 
 ## 🙏 Credits
 
